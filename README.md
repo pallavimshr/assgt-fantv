@@ -8,10 +8,6 @@ This React project replicates a landing page designed in Figma. The project demo
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -44,10 +40,4 @@ Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
 ```bash
 git clone https://github.com/pallavimshr/assgt-fantv
 
-### Navigate to Project Directory
-
-Change your directory to the project folder:
-
-```bash
-cd assgt-fantv
 
