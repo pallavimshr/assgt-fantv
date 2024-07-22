@@ -14,12 +14,17 @@ const Component3 = ({ className = "" }) => {
             <div className="self-stretch flex flex-row items-start justify-start gap-[32px] max-w-full mq750:gap-[16px] mq1050:flex-wrap">
               <div className="h-[217px] flex-[0.9013] rounded-3xl bg-white overflow-hidden flex flex-col items-start justify-start pt-[23.5px] pb-[148.5px] pr-7 pl-8 box-border gap-[20.5px] min-w-[395px] max-w-full z-[4] mq750:h-auto mq750:pt-5 mq750:pb-[97px] mq750:box-border mq750:min-w-full mq1050:flex-1">
                 <div className="self-stretch flex flex-row items-start justify-between shrink-0 max-w-full gap-[20px] mq750:flex-wrap">
-                  <div className="w-[340px] flex flex-col items-start justify-start pt-[10.5px] px-0 pb-0 box-border max-w-full">
-                    <h1 className="m-0 self-stretch h-8 relative text-inherit font-medium font-inherit inline-block mq1050:text-7xl mq450:text-lgi">
+                  <div className="w-[340px] flex flex-col items-start justify-start pt-[10.5px] px-0 pb-0 box-border max-w-full whitespace-nowrap">
+                    <h1 className="m-0 self-stretch h-8 relative text-inherit font-medium font-inherit mq1050:text-7xl mq450:text-lgi">
                       No. of Node Operators
                     </h1>
                   </div>
-                 
+                  <img
+                      className="h-[45px] w-[45px] relative"
+                      loading="lazy"
+                      alt=""
+                      src="/group-427319596.svg"
+                    />
                 </div>
                 <div className="w-[476px] h-[290px] relative shrink-0 max-w-full text-67xl font-bricolage-grotesque-24pt-condensed">
                   <div className="absolute top-[0px] left-[0px] tracking-[0.02em] font-semibold mq1050:text-24xl mq450:text-7xl">
@@ -87,14 +92,19 @@ const Component3 = ({ className = "" }) => {
                 <div className="flex-1 rounded-3xl bg-white overflow-hidden flex flex-col items-start justify-start pt-[23.5px] pb-[25px] pr-[26px] pl-8 box-border gap-[20.5px] max-w-full z-[4] text-left text-13xl text-gray-200">
                   <div className="self-stretch flex flex-row items-start justify-start gap-[43px] max-w-full mq750:flex-wrap mq750:gap-[21px]">
                     <div className="flex-1 flex flex-col items-start justify-start pt-[10.5px] px-0 pb-0 box-border min-w-[299px] max-w-full">
-                      <div className="self-stretch h-8 relative font-medium inline-block">
+                      <div className="self-stretch h-4 relative font-medium inline-block whitespace-nowrap">
                         <span>Data Transferred in TB </span>
                         <span className="text-base tracking-[0.02em]">
                           (last 30 days)
                         </span>
                       </div>
                     </div>
-                   
+                    <img
+                      className="h-[40px] w-[40px] relative"
+                      loading="lazy"
+                      alt=""
+                      src="/group-427319596.svg"
+                    />
                   </div>
                   <div className="w-[200px] flex flex-row items-start justify-start relative text-67xl font-bricolage-grotesque-24pt-condensed">
                     <div className="h-[200px] w-[407px] absolute !m-[0] right-[-276px] bottom-[-187px] [filter:blur(214px)] rounded-[50%] bg-mediumslateblue-100" />
