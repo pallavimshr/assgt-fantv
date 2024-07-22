@@ -11,6 +11,7 @@ const Component3 = ({ className = "" }) => {
          <div className="w-[119px] h-[385px] box-border overflow-hidden shrink-0 flex flex-col items-start justify-start relative opacity-[0.12] z-[2] border-t-[1px] border-solid border-white border-b-[1px]"></div>
         <div className="self-stretch flex flex-row items-start justify-center py-0 pr-5 pl-[30px] box-border max-w-full shrink-0">
           <div className="w-[1246px] flex flex-col items-start justify-start gap-[158px] max-w-full lg:gap-[79px] mq750:gap-[39px] mq450:gap-[20px]">
+           
             <div className="self-stretch flex flex-row items-start justify-start gap-[32px] max-w-full mq750:gap-[16px] mq1050:flex-wrap">
               <div className="h-[217px] flex-[0.9013] rounded-3xl bg-white overflow-hidden flex flex-col items-start justify-start pt-[23.5px] pb-[148.5px] pr-7 pl-8 box-border gap-[20.5px] min-w-[395px] max-w-full z-[4] mq750:h-auto mq750:pt-5 mq750:pb-[97px] mq750:box-border mq750:min-w-full mq1050:flex-1">
                 <div className="self-stretch flex flex-row items-start justify-between shrink-0 max-w-full gap-[20px] mq750:flex-wrap">
@@ -43,7 +44,7 @@ const Component3 = ({ className = "" }) => {
                     />
                   </div>
                   <div className="absolute top-[67.1px] left-[7px] w-[828.3px] flex flex-col items-start justify-start pt-[49.9px] pb-[576.4px] pr-[60px] pl-[124px] box-border gap-[42px] max-w-full">
-                    <div className="self-stretch relative tracking-[0.02em] leading-[19.2px] font-medium z-[1]">
+                    <div className="self-stretch relative tracking-[0.02em] leading-[19.2px] md:leading-[24px] lg:leading-[28px] font-medium z-[1] text-base md:text-lg lg:text-xl">
                       Join the world’s first DePIN: Revolutionizing Content
                       Streaming with faster, Safer and Cheaper Access
                     </div>
@@ -71,9 +72,9 @@ const Component3 = ({ className = "" }) => {
                         />
                       </div>
                       <div className="absolute top-[0px] left-[0px] w-[1440px] h-[649px] flex flex-row items-start justify-start">
-                      <h1 className="!m-[0] w-[1254px] absolute top-[173px] left-[152px] text-inherit leading-[150%] uppercase font-extrabold font-inherit text-transparent !bg-clip-text [background:linear-gradient(90deg,_#fff,_#6b61ff)] [-webkit-background-clip:text] [-webkit-text-fill-color:transparent] inline-block z-[1] mq1050:text-26xl mq1050:leading-[67px] mq450:text-15xl mq450:leading-[50px]">
+                      <h1 className="!m-[0] w-[1254px] absolute top-[173px] left-[140px] text-inherit leading-[150%] uppercase font-extrabold font-inherit text-transparent !bg-clip-text [background:linear-gradient(90deg,_#fff,_#6b61ff)] [-webkit-background-clip:text] [-webkit-text-fill-color:transparent] inline-block z-[1] mq1050:text-26xl mq1050:leading-[67px] mq450:text-15xl mq450:leading-[50px]">
                       <p className="m-0">Empowering the Digital Era: </p>
-                          <p className="m-0">Decentarlizing Entertainment</p>
+                          <p className="m-0">Decentralizing Entertainment</p>
                       </h1>
                         <div className="h-[649px] flex-1 relative max-w-full flex items-center justify-center z-[1]">
                           <img
