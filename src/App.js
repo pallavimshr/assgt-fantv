@@ -1,10 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import Desktop from './Desktop';
 
 function App() {
   return (
     <div className="App">
-      
+      <Desktop/>
     </div>
   );
 }
