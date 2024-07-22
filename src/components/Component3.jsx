@@ -66,10 +66,10 @@ const Component3 = ({ className = "" }) => {
                         />
                       </div>
                       <div className="absolute top-[0px] left-[0px] w-[1440px] h-[649px] flex flex-row items-start justify-start">
-                      <h1 className="!m-[0] w-[1054px] absolute top-[173px] left-[152px] text-inherit leading-[150%] uppercase font-extrabold font-inherit text-transparent !bg-clip-text [background:linear-gradient(90deg,_#fff,_#6b61ff)] [-webkit-background-clip:text] [-webkit-text-fill-color:transparent] inline-block z-[1] mq1050:text-26xl mq1050:leading-[67px] mq450:text-15xl mq450:leading-[50px]">
-  <span className="block">Empowering the Digital Era:</span>
-  <span className="block ">Decentralizing Entertainment</span>
-</h1>
+                      <h1 className="!m-[0] w-[1254px] absolute top-[173px] left-[152px] text-inherit leading-[150%] uppercase font-extrabold font-inherit text-transparent !bg-clip-text [background:linear-gradient(90deg,_#fff,_#6b61ff)] [-webkit-background-clip:text] [-webkit-text-fill-color:transparent] inline-block z-[1] mq1050:text-26xl mq1050:leading-[67px] mq450:text-15xl mq450:leading-[50px]">
+                      <p className="m-0">Empowering the Digital Era: </p>
+                          <p className="m-0">Decentarlizing Entertainment</p>
+                      </h1>
                         <div className="h-[649px] flex-1 relative max-w-full flex items-center justify-center z-[1]">
                           <img
                             className="h-full flex-1 overflow-hidden object-contain absolute left-[0px] top-[200px] w-full [transform:scale(1.616)]"
