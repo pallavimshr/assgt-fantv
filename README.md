@@ -41,3 +41,22 @@ Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
 git clone https://github.com/pallavimshr/assgt-fantv
 
 
+```
+### Navigate to the Project Directory
+
+Change to the project directory with:
+
+```bash
+cd assgt-fantv
+```
+### Install Dependencies
+
+Run the following command to install all the necessary dependencies:
+
+```bash
+npm install
+```
+### Run Project
+Run the following command to run the project
+```bash
+npm run
