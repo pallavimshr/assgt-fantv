@@ -59,4 +59,4 @@ npm install
 ### Run Project
 Run the following command to run the project
 ```bash
-npm run
+npm start
